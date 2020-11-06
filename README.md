@@ -1,6 +1,8 @@
 # React Portfolio
 https://floating-cove-02485.herokuapp.com/
 
+![image](https://user-images.githubusercontent.com/65314282/98408480-d04d9400-2036-11eb-978b-53866edc0a68.png)
+
 ## Description:
 A refactored e-commerce website to use Redux for state management. 
 
